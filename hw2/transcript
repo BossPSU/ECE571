@@ -1,0 +1,76 @@
+# //  Questa Sim-64
+# //  Version 2021.3_1 linux_x86_64 Aug 15 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# ** Warning: License feature 'msimviewer' will expire in 2 days.
+# do run_fourbitALU.do
+# QuestaSim-64 vlog 2021.3_1 Compiler 2021.08 Aug 15 2021
+# Start time: 11:42:30 on Oct 29,2025
+# vlog -reportprogress 300 -sv fourbitALU.sv tb_fourbitALU.sv ALU_pkg.sv 
+# -- Compiling package fourbitALU_sv_unit
+# -- Importing package ALU_pkg
+# -- Compiling module fourbitALU
+# -- Compiling package tb_fourbitALU_sv_unit
+# -- Compiling module tb_fourbitALU
+# -- Compiling package ALU_pkg
+# 
+# Top level modules:
+# 	tb_fourbitALU
+# End time: 11:42:30 on Oct 29,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vopt 2021.3_1 Compiler 2021.08 Aug 15 2021
+# Start time: 11:42:30 on Oct 29,2025
+# vopt -reportprogress 300 work.tb_fourbitALU -o tb_fourbitALU_opt "+acc" 
+# 
+# Top level modules:
+# 	tb_fourbitALU
+# 
+# Analyzing design...
+# -- Loading module tb_fourbitALU
+# -- Loading module fourbitALU
+# -- Loading module fourbitFA
+# -- Loading module onebitFA
+# -- Loading module fourbitMUL
+# -- Loading module fourbitDEC
+# Optimizing 9 design-units (inlining 0/13 module instances):
+# -- Optimizing package ALU_pkg(fast)
+# -- Optimizing package tb_fourbitALU_sv_unit(fast)
+# -- Optimizing package fourbitALU_sv_unit(fast)
+# -- Optimizing module fourbitALU(fast)
+# -- Optimizing module tb_fourbitALU(fast)
+# -- Optimizing module fourbitFA(fast)
+# -- Optimizing module fourbitDEC(fast)
+# -- Optimizing module onebitFA(fast)
+# -- Optimizing module fourbitMUL(fast)
+# Optimized design name is tb_fourbitALU_opt
+# End time: 11:42:31 on Oct 29,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim tb_fourbitALU_opt 
+# Start time: 11:42:31 on Oct 29,2025
+# ** Warning: License feature 'msimhdlsim' will expire in 2 days.
+# Loading sv_std.std
+# Loading work.ALU_pkg(fast)
+# Loading work.tb_fourbitALU_sv_unit(fast)
+# Loading work.tb_fourbitALU(fast)
+# Loading work.fourbitALU_sv_unit(fast)
+# Loading work.fourbitALU(fast)
+# Loading work.fourbitFA(fast)
+# Loading work.onebitFA(fast)
+# Loading work.fourbitMUL(fast)
+# Loading work.fourbitDEC(fast)
+# ** Note: $finish    : tb_fourbitALU.sv(32)
+#    Time: 10240 ns  Iteration: 0  Instance: /tb_fourbitALU
+# 1
+# Break in Module tb_fourbitALU at tb_fourbitALU.sv line 32
+# End time: 11:42:54 on Oct 29,2025, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0

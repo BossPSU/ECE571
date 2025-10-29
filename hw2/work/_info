@@ -1,0 +1,427 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/dboss/common/Desktop/hw2
+XALU_pkg
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1761763350
+!i10b 1
+!s100 k2Cl3b;WlACVRHY]6eU7@0
+IJYlQfEYWhREV^Ic9VZFD11
+S1
+R1
+w1761763215
+8ALU_pkg.sv
+FALU_pkg.sv
+!i122 72
+Z4 L0 1 0
+VJYlQfEYWhREV^Ic9VZFD11
+Z5 OL;L;2021.3_1;73
+r1
+!s85 0
+31
+Z6 !s108 1761763350.000000
+Z7 !s107 ALU_pkg.sv|tb_fourbitALU.sv|fourbitALU.sv|
+Z8 !s90 -reportprogress|300|-sv|fourbitALU.sv|tb_fourbitALU.sv|ALU_pkg.sv|
+!i113 0
+Z9 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+n@a@l@u_pkg
+vfourbitALU
+R2
+Z11 DXx4 work 7 ALU_pkg 0 22 JYlQfEYWhREV^Ic9VZFD11
+DXx4 work 18 fourbitALU_sv_unit 0 22 EZHEB>oJc2Fmz3TX61CJg1
+R3
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 e08gbHOWRNCciYSX4mANf1
+IYzbcZ>L[Jgh]o;>>`[ceJ1
+!s105 fourbitALU_sv_unit
+S1
+R1
+Z13 w1761763336
+Z14 8fourbitALU.sv
+Z15 FfourbitALU.sv
+!i122 72
+L0 2 29
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+nfourbit@a@l@u
+XfourbitALU_sv_unit
+R2
+R11
+R3
+VEZHEB>oJc2Fmz3TX61CJg1
+r1
+!s85 0
+!i10b 1
+!s100 o?8ZLFY[<2nY^5P=E@4fj3
+IEZHEB>oJc2Fmz3TX61CJg1
+!i103 1
+S1
+R1
+R13
+R14
+R15
+!i122 72
+R4
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+nfourbit@a@l@u_sv_unit
+vfourbitDEC
+R2
+Z16 !s110 1761751626
+!i10b 1
+!s100 7E3oXNNYoTf9cTOBhkDY<0
+IQl`lbDfgMCPN]lmbRCS;m0
+S1
+R1
+w1761751619
+8fourbitDEC.sv
+FfourbitDEC.sv
+!i122 62
+L0 1 8
+R12
+R5
+r1
+!s85 0
+31
+Z17 !s108 1761751626.000000
+Z18 !s107 tb_fourbitDEC.sv|fourbitDEC.sv|
+Z19 !s90 -reportprogress|300|-sv|fourbitDEC.sv|tb_fourbitDEC.sv|
+!i113 0
+R9
+R10
+nfourbit@d@e@c
+vfourbitFA
+R2
+Z20 !s110 1761760820
+!i10b 1
+!s100 hVzf@8cUPJI:nU4mll0Di2
+IZEbLQi;h:Rb[>GG>RAZ=D0
+S1
+R1
+w1761714998
+8fourbitFA.sv
+FfourbitFA.sv
+!i122 63
+L0 1 23
+R12
+R5
+r1
+!s85 0
+31
+Z21 !s108 1761760820.000000
+Z22 !s107 tb_fourbitFA.sv|fourbitFA.sv|
+Z23 !s90 -reportprogress|300|fourbitFA.sv|tb_fourbitFA.sv|
+!i113 0
+Z24 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R10
+nfourbit@f@a
+vfourbitMUL
+R2
+Z25 !s110 1761751212
+!i10b 1
+!s100 @nQ9z<kVSa35U5UjaL_161
+IXoXhiQGo4ga;k<ciFj7_?3
+S1
+R1
+w1761746286
+8fourbitMUL.sv
+FfourbitMUL.sv
+!i122 56
+L0 2 5
+R12
+R5
+r1
+!s85 0
+31
+Z26 !s108 1761751212.000000
+Z27 !s107 tb_fourbitMUL.sv|fourbitMUL.sv|
+Z28 !s90 -reportprogress|300|fourbitMUL.sv|tb_fourbitMUL.sv|
+!i113 0
+R24
+R10
+nfourbit@m@u@l
+vonebitFA
+R2
+!s110 1761707613
+!i10b 1
+!s100 Q@fI=eC>5VnFFOUYI^E=C0
+I3N^B47fh>CUUcb_nG^Jb01
+S1
+R1
+w1761701391
+8onebitFA.sv
+FonebitFA.sv
+!i122 15
+L0 1 14
+R12
+R5
+r1
+!s85 0
+31
+!s108 1761707613.000000
+!s107 tb_fourbitFA.sv|fourbitFA.sv|onebitFA.sv|
+!s90 -reportprogress|300|onebitFA.sv|fourbitFA.sv|tb_fourbitFA.sv|
+!i113 0
+R24
+R10
+nonebit@f@a
+vtb_fourbitALU
+R2
+R11
+DXx4 work 21 tb_fourbitALU_sv_unit 0 22 6MTWhlkRe`?SLR_hI2cZk3
+R3
+R12
+r1
+!s85 0
+!i10b 1
+!s100 9hU6EAf82_c<L2<WVhdB60
+ILYi]d6W=DU`HZWcUaH7>`1
+!s105 tb_fourbitALU_sv_unit
+S1
+R1
+Z29 w1761762619
+Z30 8tb_fourbitALU.sv
+Z31 Ftb_fourbitALU.sv
+!i122 72
+L0 2 33
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+ntb_fourbit@a@l@u
+Ttb_fourbitALU_opt
+!s110 1761763351
+VGc5OiZYEHcKYKH12I=bJC2
+04 13 4 work tb_fourbitALU fast 0
+Z32 !s124 OEM100
+Z33 o+acc
+R10
+ntb_fourbit@a@l@u_opt
+Z34 OL;O;2021.3_1;73
+Xtb_fourbitALU_sv_unit
+R2
+R11
+R3
+V6MTWhlkRe`?SLR_hI2cZk3
+r1
+!s85 0
+!i10b 1
+!s100 0K^:T8?>`5gAkV4`7OKg92
+I6MTWhlkRe`?SLR_hI2cZk3
+!i103 1
+S1
+R1
+R29
+R30
+R31
+!i122 72
+R4
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+ntb_fourbit@a@l@u_sv_unit
+vtb_fourbitDEC
+R2
+R16
+!i10b 1
+!s100 64m7NR?i^kd9`dj<4MVG;3
+I_;Eh5BceZ76DeilHmH1F;0
+S1
+R1
+w1761751570
+8tb_fourbitDEC.sv
+Ftb_fourbitDEC.sv
+!i122 62
+L0 1 30
+R12
+R5
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 0
+R9
+R10
+ntb_fourbit@d@e@c
+Ttb_fourbitDEC_opt
+R16
+V3@TV<@3`?3oZ?D86>H3OV1
+04 13 4 work tb_fourbitDEC fast 0
+R32
+R33
+R10
+ntb_fourbit@d@e@c_opt
+R34
+R1
+vtb_fourbitFA
+R2
+R20
+!i10b 1
+!s100 082hd?=4LJ8`eFUO3L?8f2
+I0b]lQFj<NYLCRE9k>gk8U3
+S1
+R1
+w1761712077
+8tb_fourbitFA.sv
+Ftb_fourbitFA.sv
+!i122 63
+L0 2 28
+R12
+R5
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+ntb_fourbit@f@a
+Ttb_fourbitFA_opt
+!s110 1761760821
+V@i3m41@d_J;9E<]4oPb6c1
+04 12 4 work tb_fourbitFA fast 0
+R32
+R33
+R10
+ntb_fourbit@f@a_opt
+R34
+R1
+vtb_fourbitMUL
+R2
+R25
+!i10b 1
+!s100 8ELNH^25=k0@:XPhK6nIk3
+I=j7RdIIJGD]aJ9LDXeYdN2
+S1
+R1
+w1761750182
+8tb_fourbitMUL.sv
+Ftb_fourbitMUL.sv
+!i122 56
+L0 2 24
+R12
+R5
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 0
+R24
+R10
+ntb_fourbit@m@u@l
+Ttb_fourbitMUL_opt
+!s110 1761751213
+VGEm<QLdjRzbSd27dWXan>3
+04 13 4 work tb_fourbitMUL fast 0
+R32
+R33
+R10
+ntb_fourbit@m@u@l_opt
+R34
+R1
+vtb_onebitFA
+R2
+Z35 !s110 1761704154
+!i10b 1
+!s100 J374zmTg[cTl>MUHJk3<f1
+IOXTPHHVol=:W4nFm?FzRG1
+S1
+R1
+w1761704148
+8tb_onebitFA.sv
+Ftb_onebitFA.sv
+!i122 9
+L0 2 26
+R12
+R5
+r1
+!s85 0
+31
+!s108 1761704154.000000
+!s107 tb_onebitFA.sv|onebitFA.sv|
+!s90 -reportprogress|300|onebitFA.sv|tb_onebitFA.sv|
+!i113 0
+R24
+R10
+ntb_onebit@f@a
+Ttb_onebitFA_opt
+R35
+VENJlO7PR@EhK06[4YL4K61
+04 11 4 work tb_onebitFA fast 0
+R32
+R33
+R10
+ntb_onebit@f@a_opt
+R34
+R1
